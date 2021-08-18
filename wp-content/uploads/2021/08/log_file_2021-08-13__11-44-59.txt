@@ -1,0 +1,883 @@
+
+---Downloaded files---
+The import files for: Base Content were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost:7882/wordpress/shopping
+Data file = C:\xampp\htdocs\WORDPRESS\shopping\wp-content\plugins\arrowpress-importer/data/content.xml
+Widget file = C:\xampp\htdocs\WORDPRESS\shopping\wp-content\plugins\arrowpress-importer/data/widget.wie
+Customizer file = C:\xampp\htdocs\WORDPRESS\shopping\wp-content\plugins\arrowpress-importer/data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-furniture-1-mobile" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Sweets-bakery-Desktop_03-1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "bg_valentine_mobile.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "Group-12v2.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+[ERROR] Failed to import "Hero-banner.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+[ERROR] Failed to import "Arrow-Right.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+[ERROR] Failed to import "Arrow-Right.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+[ERROR] Failed to import "Arrow-Right.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "left-arrow" (Media)
+[ERROR] Failed to import "right-arrow" (Media)
+[ERROR] Failed to import "img-slider-h-women.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-1.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-11.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-2.jpg" (Media)
+[ERROR] Failed to import "img-slider-h-women-21.jpg" (Media)
+[ERROR] Failed to import "ic_arrow_forward_24px-1.svg" (Media)
+[ERROR] Failed to import "diamond.svg" (Media)
+[ERROR] Failed to import "heart_v2.svg" (Media)
+[ERROR] Failed to import "traitim.svg" (Media)
+[ERROR] Failed to import "star.svg" (Media)
+[ERROR] Failed to import "icon-123.svg" (Media)
+[ERROR] Failed to import "icon-3813.svg" (Media)
+[ERROR] Failed to import "icon-371318.svg" (Media)
+[ERROR] Failed to import "icon-plus.svg" (Media)
+[ERROR] Failed to import "Star-1.svg" (Media)
+[ERROR] Failed to import "mousescroll-1.svg" (Media)
+[ERROR] Failed to import "Arrow-Right.svg" (Media)
+
+
+---pt-ocdi/before_widgets_import---
+Import Widget
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Custom HTML - No Title - Imported
+[APR] Social - Follow us - Imported
+[APR] Posts - RECENT POST - Imported
+Mailchimp Sign-Up Form - Subscribe to my Newsletter - Imported
+Categories - Categories - Imported
+Tag Cloud - No Title - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Shop Sidebar : 
+
+[APR] WooCommerce Product Categories - Categories - Imported
+AAPF Filter Single - No Title - Imported
+[APR] Brands - Brand - Imported
+AAPF Filter Single - No Title - Imported
+
+Shop Sidebar Left : 
+
+[APR] WooCommerce Product Categories - Categories - Imported
+[APR] YITH WooCommerce Compare Widget - Compare Products - Imported
+Products by Rating list - Top rated products - Imported
+Product Tag Cloud - Tags - Imported
+
+Shop Sidebar Right : 
+
+[APR] WooCommerce Product Categories - Categories - Imported
+[APR] YITH WooCommerce Compare Widget - Compare Products - Imported
+Products by Rating list - Top rated products - Imported
+Product Tag Cloud - Tags - Imported
+
+Header Info : 
+
+[APR] Contact - Quick contacts - Imported
+
+Popup Newsletter : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+
+
+
+---pt-ocdi/before_widgets_import---
+Import Widget
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+[APR] Social - Follow us - Widget already exists
+[APR] Posts - RECENT POST - Widget already exists
+Mailchimp Sign-Up Form - Subscribe to my Newsletter - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Page Sidebar : 
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Shop Sidebar : 
+
+[APR] WooCommerce Product Categories - Categories - Widget already exists
+AAPF Filter Single - No Title - Widget already exists
+[APR] Brands - Brand - Widget already exists
+AAPF Filter Single - No Title - Widget already exists
+
+Shop Sidebar Left : 
+
+[APR] WooCommerce Product Categories - Categories - Widget already exists
+[APR] YITH WooCommerce Compare Widget - Compare Products - Widget already exists
+Products by Rating list - Top rated products - Widget already exists
+Product Tag Cloud - Tags - Widget already exists
+
+Shop Sidebar Right : 
+
+[APR] WooCommerce Product Categories - Categories - Widget already exists
+[APR] YITH WooCommerce Compare Widget - Compare Products - Widget already exists
+Products by Rating list - Top rated products - Widget already exists
+Product Tag Cloud - Tags - Widget already exists
+
+Header Info : 
+
+[APR] Contact - Quick contacts - Widget already exists
+
+Popup Newsletter : 
+
+Mailchimp Sign-Up Form - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Delete Default Post and Page \n
+
+---pt-ocdi/after_import---
+Delete Default Post and Page \n
